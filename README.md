@@ -6,3 +6,6 @@ The web app is hosted on Netlify using Github CI/CD pipleline that enables the c
 
 WHAT I LEARNED
 
+I learned more about Javascript functions and how to use and manipulate the functions including arrow functions which i had trouble using it for quite sometime.
+I also learned and got a better understanding on event listeners and how to call functions using the onClick event handler.
+
